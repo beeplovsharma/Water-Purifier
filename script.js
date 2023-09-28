@@ -4,12 +4,12 @@ document.querySelector('#Director').addEventListener('click', function() {
     var emailAddress = 'director@nitjsr.ac.in';
     var subject = "Urgent Complaint Regarding Inadequate Water Facilities in Hostel and Mess.";
     var body = `
-    Dear Director Sir,
+Dear Director Sir,
 
 I hope this message finds you in good health and high spirits.
 Sir, In Hostel K, which houses over 700+ students, there is only a single functional water filter available. This dire situation has persisted since our relocation to this hostel last year, significantly impacting the daily lives of the residents.
 
-Furthermore, within the mega mess area, there are four water filters allocated to serve the students. Regrettably, only two of them are in operational condition, and even those experience intermittent failures. This results in severe inconvenience during meal times.
+Furthermore, within the mega mess, there are four water filters allocated to serve the students. Regrettably, only two of them are in operational condition, and even those experience intermittent failures. This results in severe inconvenience during meal times.
 
 Many students are forced to buy drinking water from different water vendors at Hostel gate. Several complaints were made earlier but no prompt actions has been taken so far.
 
