@@ -16,7 +16,9 @@ Many students are forced to buy drinking water from different water vendors at H
 Sir, it is our sincere demand to provide us standard water purifier in each block of the Hostel K.
 I request your immediate intervention in this matter to rectify the situation and provide a satisfactory resolution.
 I appreciate your attention to this matter and look forward to a timely response. Thank you for your consideration.
- `;
+ 
+Thank you.
+`;
     
     
     
